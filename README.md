@@ -1,30 +1,15 @@
-\# sql-course
+# sql-course
 
-
-
-\## Информация
-
+## Информация
 Дата создания: 04.10.2026
-
 Автор: Оринбаев Муроджон
 
-
-
-\### Описание
-
+### Описание
 Репозиторий с решениями задач по SQL (HackerRank).
 
+![Логотип Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png)
 
-
-!\[Логотип Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png)
-
-
-
-\### Пример кода
-
+### Пример кода
 ```sql
-
-SELECT \* FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 100000;
-
+SELECT * FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 100000;
 ```
-
